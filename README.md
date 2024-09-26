@@ -1,7 +1,12 @@
 # SideScrollPrototype
 Unreal Engine 5.4
 
+--- Opis ---
+
+Projekt to prototyp gry side scroll. Wykorzystano projekt startowy ThirdPersonPlayer oraz animacje Mixamo.
+
 --- Uruchomienie ---
+
 1. Otwórz scenę SideScrollPrototype/Content/ThirdPerson/Maps/ThirdPersonMap.level
 2. Wciśnij przycisk Play
 
