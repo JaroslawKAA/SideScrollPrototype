@@ -1,4 +1,9 @@
 # SideScrollPrototype
+Unreal Engine 5.4
+
+--- Uruchomienie ---
+1. Otwórz scenę SideScrollPrototype/Content/ThirdPerson/Maps/ThirdPersonMap.level
+2. Wciśnij przycisk Play
 
 --- Mechaniki ---
 
