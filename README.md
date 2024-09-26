@@ -17,7 +17,7 @@
    - Przeciwnik posiada stan domyślny RoamAround dopóki nie zauważy gracza
    - Po zauważeniu gracza przeciwnik atakuje gracza
    - Skuteczny atak obniża punkty zycia gracza i odtwarza dźwięk
-   - Przeciwnik znajduje AttackTarget sprawdzając vidoczny objekt czy implementuje odpowiedni interfejs
+   - Przeciwnik znajduje AttackTarget sprawdzając czy widoczny objekt implementuje odpowiedni interfejs
 
 4. UI - BP_HUD:
    - Pasek życia i wytrzymałości
@@ -28,7 +28,7 @@
    -  Maszyna stanów z domyślnym stanem TPPGameState
    -  TPPGameState tworzy HUD na OnEnter
   
-6. Sterowanie - IMC_Default
+6. Sterowanie - IMC_Default:
    - Move - WSAD/LeftStick
    - Jump - Space/TopButton
    - Left attack - LeftArrow/LeftShoulder
