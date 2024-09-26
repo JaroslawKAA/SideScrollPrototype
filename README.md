@@ -13,7 +13,7 @@
   - Maszyna stanów z jednym stanem OnSplineCameraState
 
 3. AI Przeciwnika - BP_Enemy, BP_AIController_Enemy:
-   - Zachowanie przeciwnika oparte na Behaviour Tree
+   - Zachowanie przeciwnika oparte na Behavior Tree
    - Przeciwnik posiada stan domyślny RoamAround dopóki nie zauważy gracza
    - Po zauważeniu gracza przeciwnik atakuje gracza
    - Skuteczny atak obniża punkty zycia gracza i odtwarza dźwięk
