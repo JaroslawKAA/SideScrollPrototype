@@ -4,6 +4,7 @@ Unreal Engine 5.4
 --- Opis ---
 
 Projekt to prototyp gry side scroll. Wykorzystano projekt startowy ThirdPersonPlayer oraz animacje Mixamo.
+![image](https://github.com/user-attachments/assets/7bfb6f59-c2c9-4aad-b7e8-74336b77a556)
 
 --- Uruchomienie ---
 
