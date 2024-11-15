@@ -1,4 +1,5 @@
 # SideScrollPrototype
+![image](https://github.com/user-attachments/assets/aa8155db-c43d-4c31-b240-3f402d54fa49)
 
 --- Mechaniki ---
 
