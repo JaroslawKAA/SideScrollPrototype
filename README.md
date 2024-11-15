@@ -8,8 +8,9 @@ Projekt to prototyp gry side scroll. Wykorzystano projekt startowy ThirdPersonPl
 
 --- Uruchomienie ---
 
-1. Otwórz scenę SideScrollPrototype/Content/ThirdPerson/Maps/ThirdPersonMap.level
-2. Wciśnij przycisk Play
+1. Zainstaluje plugin Low Entry - Extended Standard Library w edytorze Unreal Engine
+2. Otwórz scenę SideScrollPrototype/Content/ThirdPerson/Maps/ThirdPersonMap.level
+3. Wciśnij przycisk Play
 
 --- Mechaniki ---
 
